@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fotoley-assignment/static/css/main.eb584e35.css",
+    "main.js": "/fotoley-assignment/static/js/main.33a405d7.js",
+    "index.html": "/fotoley-assignment/index.html",
+    "main.eb584e35.css.map": "/fotoley-assignment/static/css/main.eb584e35.css.map",
+    "main.33a405d7.js.map": "/fotoley-assignment/static/js/main.33a405d7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eb584e35.css",
+    "static/js/main.33a405d7.js"
+  ]
+}
